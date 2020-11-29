@@ -49,7 +49,7 @@ Vuforia is an augmented reality software development kit (SDK) for mobile device
 
 This image registration capability enables developers to position and orient virtual objects, such as 3D models and other media, in relation to real world objects when they are viewed through the camera of a mobile device. The virtual object then tracks the position and orientation of the image in real-time so that the viewer's perspective on the object corresponds with the perspective on the target. It thus appears that the virtual object is a part of the real-world scene. 
 
-
+<img src="https://raw.githubusercontent.com/DeniseBischof/TI_AR_Workshop/main/Pictures/Feature_Ex.png" width="400">
 
 ### ARFoundation
 
@@ -58,7 +58,8 @@ This image registration capability enables developers to position and orient vir
 
 To get a first idea of what Three.js can do, let's have a look at some example projects:
 
--   [PharaosAR](https://unity.com/de/madewith/pharos-ar) <br><img src="https://unity.com/sites/default/files/styles/16_9_xl/public/2019-04/pharos-ar-hero-1920x1000.jpg?itok=IJ0rQtOV" width="400">
+-   [PharaosAR](https://unity.com/de/madewith/pharos-ar) 
+<br><img src="https://unity.com/sites/default/files/styles/16_9_xl/public/2019-04/pharos-ar-hero-1920x1000.jpg?itok=IJ0rQtOV" width="400">
 
 
 ## References
