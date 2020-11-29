@@ -45,14 +45,26 @@ This is a simple movement input script in C# for Unity.
 
 
 ### Vuforia
-Vuforia is an augmented reality software development kit (SDK) for mobile devices that enables the creation of augmented reality applications.[1] It uses computer vision technology to recognize and track planar images and 3D objects in real time. 
+Vuforia is an augmented reality software development kit (SDK) for mobile devices that enables the creation of augmented reality applications. It uses computer vision technology to recognize and track planar images and 3D objects in real time. 
+
+<img src="https://raw.githubusercontent.com/DeniseBischof/TI_AR_Workshop/main/Pictures/Vuforia_3DObj_Ex.png" height="175">
 
 This image registration capability enables developers to position and orient virtual objects, such as 3D models and other media, in relation to real world objects when they are viewed through the camera of a mobile device. The virtual object then tracks the position and orientation of the image in real-time so that the viewer's perspective on the object corresponds with the perspective on the target. It thus appears that the virtual object is a part of the real-world scene. 
 
 <img src="https://raw.githubusercontent.com/DeniseBischof/TI_AR_Workshop/main/Pictures/Feature_Ex.png" width="400">
 
+
+
 ### ARFoundation
 
+AR Foundation allows you to work with augmented reality platforms in a multi-platform way within Unity. This package presents an interface for Unity developers to use, but doesn't implement any AR features itself. To use AR Foundation on a target device, you also need separate packages for the target platforms officially supported by Unity:
+
+AR Foundation includes core features from ARKit, ARCore, Magic Leap, and HoloLens, as well as unique Unity features to build robust apps that are ready to ship to internal stakeholders or on any app store. This framework enables you to take advantage of all of these features in a unified workflow.
+
+<img src="https://unity.com/sites/default/files/styles/16_9_s_scale_width/public/2020-06/AR%20Foundation%202.1%20Chart%20%282019%20LTS%29.png?itok=hPpyk6_6" width="600">
+
+
+[ARFoundation Samples](https://github.com/Unity-Technologies/arfoundation-samples)
 
 ## Example projects
 
