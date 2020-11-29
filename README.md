@@ -21,7 +21,7 @@ Denise Bischof | denise.bischof@filmuniversitaet.de | Film University Babelsberg
 Unity is a cross-platform game engine developed by Unity Technologies, first announced and released in June 2005 at Apple Inc.'s Worldwide Developers Conference as a Mac OS X-exclusive game engine. As of 2018, the engine had been extended to support more than 25 platforms. The engine can be used to create three-dimensional, two-dimensional, virtual reality, and augmented reality games, as well as simulations and other experiences. The engine has been adopted by industries outside video gaming, such as film, automotive, architecture, engineering and construction. 
 [Download Unity](https://unity3d.com/get-unity/download)
 
-Unity Interface:
+**Unity Interface:**
 
 <img src="https://raw.githubusercontent.com/DeniseBischof/TI_AR_Workshop/main/Pictures/Unity_Interface.png" width="600">
 
@@ -84,15 +84,14 @@ AR Foundation includes core features from ARKit, ARCore, Magic Leap, and HoloLen
 <img src="https://miro.medium.com/max/2048/1*g3vFBvvBOjM9Hk5aPyrO2w.jpeg" width="600">
 
 
-
-[ARFoundation Samples](https://github.com/Unity-Technologies/arfoundation-samples)
-
 ## Example projects
 
-To get a first idea of what Three.js can do, let's have a look at some example projects:
+Here are some ExampleProjects that were made with Unity:
 
 -   [PharaosAR](https://unity.com/de/madewith/pharos-ar) 
 <br><img src="https://unity.com/sites/default/files/styles/16_9_xl/public/2019-04/pharos-ar-hero-1920x1000.jpg?itok=IJ0rQtOV" width="400">
+
+[ARFoundation Samples](https://github.com/Unity-Technologies/arfoundation-samples)
 
 
 ## References
