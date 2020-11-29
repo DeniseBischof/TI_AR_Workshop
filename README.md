@@ -80,6 +80,10 @@ AR Foundation includes core features from ARKit, ARCore, Magic Leap, and HoloLen
 
 <img src="https://unity.com/sites/default/files/styles/16_9_s_scale_width/public/2020-06/AR%20Foundation%202.1%20Chart%20%282019%20LTS%29.png?itok=hPpyk6_6" width="600">
 
+**ARCore Point Cloud:** <br>
+<img src="https://miro.medium.com/max/2048/1*g3vFBvvBOjM9Hk5aPyrO2w.jpeg" width="600">
+
+
 
 [ARFoundation Samples](https://github.com/Unity-Technologies/arfoundation-samples)
 
