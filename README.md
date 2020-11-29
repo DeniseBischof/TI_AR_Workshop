@@ -85,5 +85,3 @@ To get a first idea of what Three.js can do, let's have a look at some example p
 ---
 
 The End
-
-💻 💫🔺
