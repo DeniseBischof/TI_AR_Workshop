@@ -21,7 +21,24 @@ Denise Bischof | denise.bischof@filmuniversitaet.de | Film University Babelsberg
 Unity is a cross-platform game engine developed by Unity Technologies, first announced and released in June 2005 at Apple Inc.'s Worldwide Developers Conference as a Mac OS X-exclusive game engine. As of 2018, the engine had been extended to support more than 25 platforms. The engine can be used to create three-dimensional, two-dimensional, virtual reality, and augmented reality games, as well as simulations and other experiences. The engine has been adopted by industries outside video gaming, such as film, automotive, architecture, engineering and construction. 
 [Download Unity](https://unity3d.com/get-unity/download)
 
-Unity Interface: 
+Unity Interface:
+
+<img src="https://raw.githubusercontent.com/DeniseBischof/TI_AR_Workshop/main/Pictures/Unity_Interface.png" width="600">
+
+**1: Hierarchy** <br>
+The Hierarchy window contains a list of every GameObject in the current Scene. Some of these are direct instances of Asset files (like 3D models), and others are instances of Prefabs, which are custom GameObjects that make up most of your game. When you add or remove GameObjects the Scene, they appear and disappear from the Hierarchy as well. 
+
+**2: Scene** <br>
+The Scene view is your interactive view into the world you are creating. You can use the Scene view to select and position scenery, characters, Cameras, lights, and all other types of GameObjects. Selecting, manipulating, and modifying GameObjects in the Scene view are some of the first skills you must learn to begin working in Unity.
+
+**3: Project window** <br>
+The Project window displays all of the files related to your Project and is the main way you can navigate and find Assets and other Project files in your application. When you start a new Project by default this window is open. However, if you cannot find it, or it is closed, you can open it via Window > General > Project or use the keyboard command Ctrl + 9 (Command + 9 on macOS).
+
+**4: Inspector** <br>
+Projects in the Unity Editor are made up of multiple GameObjects that contain scripts, sounds, Meshes, and other graphical elements such as Lights. The Inspector window displays detailed information about the currently selected GameObject, including all attached components and their properties, and allows you to modify the functionality of GameObjects in your Scene.
+
+**The Toolbar** at the top provides access to the most essential working features. On the left it contains the basic tools for manipulating the Scene view and the GameObjects within it. In the centre are the play, pause and step controls. The buttons to the right give you access to Unity Collaborate, Unity Cloud Services and your Unity Account, followed by a layer visibility menu, and finally the Editor layout menu (which provides some alternate layouts for the Editor windows, and allows you to save your own custom layouts).
+
 
 Unity gives users the ability to create games and experiences in both 2D and 3D, and the engine offers a primary scripting API in C#, for both the Unity editor in the form of plugins, and games themselves, as well as drag and drop functionality.
 
