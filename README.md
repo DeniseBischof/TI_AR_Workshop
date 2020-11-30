@@ -12,6 +12,7 @@ Denise Bischof | denise.bischof@filmuniversitaet.de | Film University Babelsberg
         -   [Vuforia](#Vuforia)
         -   [ARFoundation](#ARFoundation)
     -   [Example projects](#Example-projects)
+    -   [Creating a Vuforia Database](#Creating a Vuforia Database)
 
 ---
 
@@ -90,8 +91,29 @@ Here are some ExampleProjects that were made with Unity:
 
 -   [PharaosAR](https://unity.com/de/madewith/pharos-ar) 
 <br><img src="https://unity.com/sites/default/files/styles/16_9_xl/public/2019-04/pharos-ar-hero-1920x1000.jpg?itok=IJ0rQtOV" width="400">
+- [Angry Birds AR](https://www.angrybirds.com/angry-birds-ar-isle-pigs/) 
+<br><img src="https://www.roadtovr.com/wp-content/uploads/2018/09/angry-birds-fps-ar-1.jpg" width="400">
+- [ARFoundation Samples](https://github.com/Unity-Technologies/arfoundation-samples)
 
-[ARFoundation Samples](https://github.com/Unity-Technologies/arfoundation-samples)
+
+## Creating a Vuforia Database
+
+<br><img src="https://raw.githubusercontent.com/DeniseBischof/TI_AR_Workshop/main/Pictures/LicenseKey.png" width="400">
+<br><img src="https://raw.githubusercontent.com/DeniseBischof/TI_AR_Workshop/main/Pictures/CopyLicense.png" width="400">
+<br><img src="https://raw.githubusercontent.com/DeniseBischof/TI_AR_Workshop/main/Pictures/Database.png" width="400">
+<br><img src="https://raw.githubusercontent.com/DeniseBischof/TI_AR_Workshop/main/Pictures/AddImage.png" width="400">
+<br><img src="https://raw.githubusercontent.com/DeniseBischof/TI_AR_Workshop/main/Pictures/DownDB.png" width="400">
+
+**Adding Database to Unity:**
+<br><img src="https://raw.githubusercontent.com/DeniseBischof/TI_AR_Workshop/main/Pictures/AddPkg.png" width="400">
+
+## Adding a tracked image to Unity
+
+<br><img src="https://raw.githubusercontent.com/DeniseBischof/TI_AR_Workshop/main/Pictures/AddCamImage.png" width="400">
+<br><img src="https://raw.githubusercontent.com/DeniseBischof/TI_AR_Workshop/main/Pictures/ImMarker.png" width="400">
+<br><img src="https://raw.githubusercontent.com/DeniseBischof/TI_AR_Workshop/main/Pictures/AddChild.png" width="400">
+<br><img src="https://raw.githubusercontent.com/DeniseBischof/TI_AR_Workshop/main/Pictures/EventHandler.png" width="400">
+<br><img src="https://raw.githubusercontent.com/DeniseBischof/TI_AR_Workshop/main/Pictures/Vuforia_3DObj_Ex.png" width="400">
 
 
 ## References
