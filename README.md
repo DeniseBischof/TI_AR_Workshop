@@ -99,10 +99,19 @@ Here are some ExampleProjects that were made with Unity:
 
 ## Creating a Vuforia Database
 
+- Go to https://developer.vuforia.com, sign up and go into the License Manager. Get a new free Development Key.
 <br><img src="https://raw.githubusercontent.com/DeniseBischof/TI_AR_Workshop/main/Pictures/LicenseKey.png" width="400">
+
+- Copy the Development Key into your Unity Project into the Vuforia Window(Ctrl+Shif+V).
 <br><img src="https://raw.githubusercontent.com/DeniseBischof/TI_AR_Workshop/main/Pictures/CopyLicense.png" width="400">
+
+- Create a new Database in the Target Manager. Choose Device as Database Type.
 <br><img src="https://raw.githubusercontent.com/DeniseBischof/TI_AR_Workshop/main/Pictures/Database.png" width="400">
+
+- In the new Database add a new Target and upload your picture.
 <br><img src="https://raw.githubusercontent.com/DeniseBischof/TI_AR_Workshop/main/Pictures/AddImage.png" width="400">
+
+- Download the finished Database for the Unity Editor.
 <br><img src="https://raw.githubusercontent.com/DeniseBischof/TI_AR_Workshop/main/Pictures/DownDB.png" width="400">
 
 **Adding Database to Unity:**
@@ -110,10 +119,21 @@ Here are some ExampleProjects that were made with Unity:
 
 ## Adding a tracked image to Unity
 
+** Add the Vuforia Engine AR via the Unity Package Manager.**
+
+- Open a new Scene in Unity. Delete the MainCamera and add a VuforiaCamera and an ImageTarget.
 <br><img src="https://raw.githubusercontent.com/DeniseBischof/TI_AR_Workshop/main/Pictures/AddCamImage.png" width="400">
+
+- Choose the picture you want as a target from your imported Database
 <br><img src="https://raw.githubusercontent.com/DeniseBischof/TI_AR_Workshop/main/Pictures/ImMarker.png" width="400">
+
+- Add objects as children of your TargetImage to display them, whenever your image is being tracked.
 <br><img src="https://raw.githubusercontent.com/DeniseBischof/TI_AR_Workshop/main/Pictures/AddChild.png" width="400">
+
+- Use the Trackable Event Handler to turn off/on objects depending wther your image is being tracked.
 <br><img src="https://raw.githubusercontent.com/DeniseBischof/TI_AR_Workshop/main/Pictures/EventHandler.png" width="400">
+
+- Output:
 <br><img src="https://raw.githubusercontent.com/DeniseBischof/TI_AR_Workshop/main/Pictures/Vuforia_3DObj_Ex.png" width="400">
 
 
