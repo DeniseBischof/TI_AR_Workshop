@@ -11,8 +11,9 @@ Denise Bischof | denise.bischof@filmuniversitaet.de | Film University Babelsberg
         -   [Unity](#Unity)
         -   [Vuforia](#Vuforia)
         -   [ARFoundation](#ARFoundation)
-    -   [Example projects](#Example-projects)
-    -   [Creating a Vuforia Database](#Creating a Vuforia Database)
+       -   [Example projects](#Example-projects)
+       -   [Creating a Vuforia Database](#Creating-a-Vuforia-Database)
+       -   [Adding a tracked image to Unity](#Adding-a-tracked-image-to-Unity)
 
 ---
 
